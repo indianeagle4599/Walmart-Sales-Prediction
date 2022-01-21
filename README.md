@@ -36,7 +36,7 @@ Total 16 numbers of attributes are provided in the Data set including Target var
 **IsHoliday:** Whether the week is a special holiday week
 
 
-## Model(s) Used
+## Models Used
 
 1. Linear Regression: This model is most useful in data which is linearly correlated. It simply finds the "Best fit coefficients" by using the standard linear regression formula.
 
